@@ -1,6 +1,6 @@
 <?php
 
-namespace Devmtm\NovaCustomViews;
+namespace devmtm\NovaCustomViews\commands\commands\commands\commands;
 
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;
